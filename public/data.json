@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Ruby",
+    "type": "Dog",
+    "breed": "Labrador Retriever",
+    "age": 3,
+    "gender": "Female",
+    "color": "Golden",
+    "weight": "28kg",
+    "description": "Friendly and energetic family dog.",
+    "image": "https://images.unsplash.com/photo-1558788353-f76d92427f16",
+    "district": "Dhaka"
+  },
+  {
+    "name": "Milo",
+    "type": "Cat",
+    "breed": "British Shorthair",
+    "age": 2,
+    "gender": "Male",
+    "color": "Gray",
+    "weight": "5kg",
+    "description": "Quiet and intelligent cat, perfect for indoors.",
+    "image": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91",
+    "district": "Chattogram"
+  },
+  {
+    "name": "Coco",
+    "type": "Bird",
+    "breed": "Parrot",
+    "age": 1,
+    "gender": "Female",
+    "color": "Green",
+    "weight": "1kg",
+    "description": "Talkative parrot who mimics sounds easily.",
+    "image": "https://i.ibb.co.com/HDhdZpnV/Parrot-Image.jpg",
+    "district": "Sylhet"
+  },
+  {
+    "name": "Rocky",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "age": 4,
+    "gender": "Male",
+    "color": "Black & Tan",
+    "weight": "33kg",
+    "description": "Trained, loyal, and protective.",
+    "image": "https://i.ibb.co.com/fzQdqnrJ/Dog-Jerman-Shapard.jpg",
+    "district": "Rajshahi"
+  },
+  {
+    "name": "Luna",
+    "type": "Rabbit",
+    "breed": "Mini Lop",
+    "age": 1,
+    "gender": "Female",
+    "color": "White",
+    "weight": "1.4kg",
+    "description": "Soft and cuddly rabbit, great for kids.",
+    "image": "https://i.ibb.co.com/B5VJFZXW/Luna-Rabbit.jpg",
+    "district": "Khulna"
+  },
+  {
+    "name": "Buddy",
+    "type": "Dog",
+    "breed": "Beagle",
+    "age": 2,
+    "gender": "Male",
+    "color": "Tri-color",
+    "weight": "10kg",
+    "description": "Active and friendly Beagle who loves outdoor walks.",
+    "image": "https://i.ibb.co.com/Nh8P3hm/Buddy-Dog.avif",
+    "district": "Barishal"
+  },
+  {
+    "name": "Nala",
+    "type": "Cat",
+    "breed": "Siamese",
+    "age": 3,
+    "gender": "Female",
+    "color": "Cream",
+    "weight": "4kg",
+    "description": "Playful and vocal Siamese cat.",
+    "image": "https://images.unsplash.com/photo-1592194996308-7b43878e84a6",
+    "district": "Rangpur"
+  },
+  {
+    "name": "Rio",
+    "type": "Bird",
+    "breed": "Macaw",
+    "age": 2,
+    "gender": "Male",
+    "color": "Blue & Yellow",
+    "weight": "1.5kg",
+    "description": "Colorful and energetic macaw.",
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131",
+    "district": "Narayanganj"
+  },
+  {
+    "name": "Snowy",
+    "type": "Rabbit",
+    "breed": "Angora Rabbit",
+    "age": 2,
+    "gender": "Female",
+    "color": "White",
+    "weight": "1.8kg",
+    "description": "Very fluffy rabbit that needs gentle grooming.",
+    "image": "https://i.ibb.co.com/HpMHKDzM/Rabbit.jpg",
+    "district": "Gazipur"
+  },
+  {
+    "name": "Max",
+    "type": "Dog",
+    "breed": "Pomeranian",
+    "age": 1,
+    "gender": "Male",
+    "color": "Orange",
+    "weight": "3kg",
+    "description": "Tiny, energetic dog with a big personality.",
+    "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+    "district": "Cumilla"
+  }
+]
